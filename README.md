@@ -1,5 +1,5 @@
 # Probabilistic-Sampling-WIth-Frobenius-Norm
-```bibitex
+```bibtex
 @inproceedings{nken2025probabilistic,
   title={Probabilistic Sampling with Frobenius Norm for Action Recognition},
   author={Nken, Allassan Tchangmena A and Mckeever, Susan and Corcoran, Peter and Ullah, Ihsan},
